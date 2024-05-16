@@ -25,7 +25,7 @@
         },
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "unsafe-inline"
+          "value": "https://pokedex2-rho.vercel.app"
         }
       ]
     }
