@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; img-src 'self' https://pokedex2-ehhkxmr65-nelson-5553s-projects.vercel.app/; script-src 'self' https://pokedex2-ehhkxmr65-nelson-5553s-projects.vercel.app/; style-src 'unsafe-inline';"
+          "value": "default-src 'self'; img-src 'self' https://pokedex2-ehhkxmr65-nelson-5553s-projects.vercel.app; script-src 'self' https://pokedex2-ehhkxmr65-nelson-5553s-projects.vercel.app; style-src 'unsafe-inline';"
         },
         {
           "key": "X-Frame-Options",
