@@ -1,36 +1,34 @@
-# Pokédex Angular
+# Creación de Cuenta en Vercel
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+Este tutorial te guiará a través del proceso de creación de una cuenta en Vercel, la plataforma utilizada para desplegar la aplicación `pokedex-angular`.
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+## Paso 1: Visitar el Sitio Web de Vercel
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+1. Abre tu navegador web y visita [vercel.com](https://vercel.com).
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+## Paso 2: Registro
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+1. Haz clic en el botón **"Sign Up"** en la esquina superior derecha.
+2. Regístrate utilizando una de las siguientes opciones:
+   - **GitHub**
+   - GitLab
+   - Bitbucket
+   - Correo electrónico
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+## Paso 3: Autorización (para GitHub, GitLab o Bitbucket)
 
-## Requisitos mínimos
+1. Si eliges GitHub, GitLab o Bitbucket, serás redirigido a la página de autorización correspondiente.
+2. Inicia sesión y autoriza a Vercel para acceder a tus repositorios.
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
+## Paso 4: Configuración Inicial
 
-## Ambiente de pruebas
+1. Selecciona un equipo o crea uno nuevo (puedes usar el equipo por defecto para proyectos individuales).
+2. Sigue el breve tutorial de configuración de Vercel o sáltalo si prefieres.
 
-Ejecutar en la raíz del proyecto:
+## Paso 5: Confirmación del Correo Electrónico
 
-```
-npm start
-```
+1. Revisa tu bandeja de entrada y busca un correo de verificación de Vercel.
+2. Haz clic en el enlace de verificación para confirmar tu cuenta.
 
-## Referencias
+¡Listo! Ahora tienes una cuenta en Vercel y estás listo para desplegar tu aplicación.
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
