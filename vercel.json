@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; img-src 'self' https://example.com; script-src 'self' 'unsafe-inline' https://example.com; style-src 'self' 'unsafe-inline';"
+          "value": "default-src 'self'; img-src 'self' https://example.com; script-src 'self' 'unsafe-inline' pokedex2-rho.vercel.app; style-src 'self' 'unsafe-inline';"
         },
         {
           "key": "X-Frame-Options",
