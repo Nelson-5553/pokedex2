@@ -4,9 +4,6 @@
       "source": "/(.*)",
       "headers": [
         {
-          "key": "Content-Security-Policy",
-        },
-        {
           "key": "X-Frame-Options",
           "value": "SAMEORIGIN"
         },
